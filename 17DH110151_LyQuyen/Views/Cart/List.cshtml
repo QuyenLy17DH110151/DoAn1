@@ -1,0 +1,57 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.GioHang>
+@using _17DH110151_LyQuyen.Models
+@{
+    ViewBag.Title = "List";
+}
+
+<center>
+    <h2>Thanh Toán Thành Công</h2>
+    <h2>Thông Tin Hoá Đơn</h2>
+</center>
+@{
+    double tong = 0;
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.KhachHang.TenKH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sach.TenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayMua)
+        </th>
+        <th>Thành Tiền</th>
+    </tr>
+
+    @foreach (var item in (List<GioHang>)Session["HD"])
+    {
+        tong = tong + (item.SoLuong * item.Sach.Gia);
+        <tr>
+            <td>
+                @Session["TenKH"]
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sach.TenSach)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayMua)
+            </td>
+            <td>
+                @(item.SoLuong*item.Sach.Gia)
+            </td>
+        </tr>
+    }
+
+</table>
+<a href="~/Home/Index" class="btn btn-info">
+    Trang Chủ
+</a>
+<center><h5>Tổng Tiền : @tong VND</h5></center>

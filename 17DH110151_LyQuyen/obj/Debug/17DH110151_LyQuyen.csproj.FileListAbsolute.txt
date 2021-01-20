@@ -1,0 +1,985 @@
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\Administrator\Desktop\Doan1\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Doan1\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\Admin\Downloads\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\Administrator\Desktop\New folder (4)\17DH110151_LyQuyen\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\MyPC\Desktop\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+D:\luu\HelloWorld\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+D:\destop\TongHopDoAn\New folder\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+D:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder (2)\IDMPortable\Downloads\Compressed\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll.config
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\17DH110151_LyQuyen.pdb
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.exe.config
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csc.rsp
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.exe.config
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\csi.rsp
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.AppContext.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Console.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Compression.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Claims.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.ValueTuple.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.exe.config
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\vbc.rsp
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Linq.Dynamic.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\WebGrease.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\EntityFramework.SqlServer.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Helpers.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Mvc.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Optimization.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.Razor.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\System.Web.WebPages.Razor.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Newtonsoft.Json.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Antlr3.Runtime.pdb
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.InitialCreate.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a1.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a2.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a3.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a4.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.a5.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\_17DH110151_LyQuyen.Migrations.x.resources
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.GenerateResource.cache
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.csproj.CopyComplete
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.dll
+C:\Users\MyPC\Desktop\17DH110151_LyQuyen\17DH110151_LyQuyen\obj\Debug\17DH110151_LyQuyen.pdb

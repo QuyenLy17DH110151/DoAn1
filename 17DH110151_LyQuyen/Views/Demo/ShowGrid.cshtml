@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewBag.Title = "ShowGrid";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowGrid</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/responsive/2.1.1/css/responsive.bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap4.min.js "></script>
+    @*@Html.ActionLink("Click here", // <-- Link text
+                  "create", // <-- Action Method Name
+                  "saches", // <-- Controller Name
+                  null, // <-- Route value
+                  null // <-- htmlArguments
+                  )*@
+    <a href="/Saches/create" class="btn btn-info">Thêm Sách</a>
+    <script>
+        $(document).ready(function () {
+            $("#demoGrid").DataTable({
+
+                "processing": true, // for show progress bar
+                "serverSide": true, // for process server side
+                "filter": true, // this is for disable filter (search box)
+                "orderMulti": false, // for disable multiple column at once
+                "pageLength": 5,
+
+                "ajax": {
+                    "url": "/Demo/LoadData",
+                    "type": "POST",
+                    "datatype": "json"
+                },
+                columnDefs: [
+                    {
+                        "targets": [0],
+                        "visible": false,
+                        "searchable": false
+                    },
+                    {
+
+                        targets: 5,
+                        render: function (data) {
+                            return '<img src="/Images/' + data + '" width="100" height="100">'
+                        }
+                    },
+
+                    {
+                        "targets": [7],
+                        "searchable": false,
+                        "orderable": false
+                    },
+                    {
+                    "targets": [6],
+                    "searchable": false,
+                    "orderable": false
+                    }
+                ],
+
+                "columns": [
+                    { "data": "MaSach", "name": "MaSach", "autoWidth": true },
+                    { "data": "TenSach", "name": "TenSach", "autoWidth": true },
+                    { "data": "Gia", "name": "Gia", "autoWidth": true },
+                    { "data": "LoaiBia", "name": "LoaiBia", "autoWidth": true },
+                    { "data": "SoTrang", "name": "SoTrang", "autoWidth": true },
+                    { "data": "ItemImageName", "name": "ItemImageName", "autoWidth": true },
+                    {
+                        "render": function (data, type, full, meta) {
+                            return '<a class="btn btn-info" href="/saches/Edit/' + full.MaSach + '">Edit</a>';
+                        }
+                    },
+
+                    {
+                        "render": function (data, type, full, meta) {
+                            return '<a class="btn btn-danger" href="/saches/Delete/' + full.MaSach + '">Delete</a>';
+                        }
+                    },
+
+                ]
+
+            });
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <table id="demoGrid" class="table table-striped table-bordered dt-responsive nowrap" width="100%" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>MaSach</th>
+                    <th>Tên Sách</th>
+                    <th>Giá</th>
+                    <th>Loại Bìa</th>
+                    <th>Số Trang</th>
+                    <th>Hinh</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+</html>

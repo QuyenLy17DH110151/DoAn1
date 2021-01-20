@@ -1,0 +1,18 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.TacGia>
+
+<table class="table">
+    <tr>
+        <th>
+            <h2>Danh Sách Tác Giả</h2>
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <a href="/Saches/List?TenTG=@item.TenTG"> @Html.DisplayFor(modelItem => item.TenTG)</a>
+        </td>
+    </tr>
+}
+
+</table>

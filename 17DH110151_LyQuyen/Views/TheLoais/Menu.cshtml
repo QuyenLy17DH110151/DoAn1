@@ -1,0 +1,12 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.TheLoai>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@foreach (var item in Model)
+{
+    <a class="dropdown-item" href="/Saches/List?TenTL=@item.TenTL">@item.TenTL</a>
+}

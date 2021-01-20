@@ -1,0 +1,32 @@
+﻿@model _17DH110151_LyQuyen.Models.CongTyPH
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>CongTyPH</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên công ty
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenCT)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-dark" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

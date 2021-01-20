@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Index2";
+}
+
+<h2>Index2</h2>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <script>
+        $(document).ready(function () {
+            $.getJSON("/Home/GetData", function (data) {
+                    var chart = new CanvasJS.Chart("chartContainer", {
+                        theme: "dark2", // "light1", "light2", "dark1", "dark2"
+                        exportEnabled: true,
+                        animationEnabled: true,
+                        title: {
+                            text: "Desktop Browser Market Share in 2016"
+                        },
+                        data: [{
+                            type: "pie",
+                            startAngle: 25,
+                            toolTipContent: "<b>{label}</b>: {y}%",
+                            showInLegend: "true",
+                            legendText: "{label}",
+                            indexLabelFontSize: 16,
+                            indexLabel: "{label} - {y}%",
+                            dataPoints: data
+                        }]
+                    });
+                });
+          
+        });
+
+    </script>
+</head>
+<body>
+    <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>

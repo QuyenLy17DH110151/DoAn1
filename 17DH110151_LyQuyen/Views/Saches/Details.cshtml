@@ -1,0 +1,74 @@
+﻿@model _17DH110151_LyQuyen.Models.Sach
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="~/Images/@Model.ItemImageName" style="height:250px;width:300px;" />
+    </div>
+    <div class="col-md-8">
+        <h2>@Model.TenSach</h2>
+        <div class="row">
+            <div class="col-md-6">Nhà Xuất Bản: @Model.NhaXuatBan.TenNXB</div>
+            <div class="col-md-6">Tác Giả: @Model.TacGia.TenTG</div>
+        </div>
+        <div class="row">
+            <h1 class="col-md-12" style="text-align:center">@Model.Gia VND</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <a href="~/cart/ThemGioHang?id=@Model.MaSach" class="btn btn-info">
+                    Thêm Vào Giỏ Hàng
+                </a>
+            </div>
+            @*<div class="col-md-6"><a href="~/cart/Buy?id=@Model.MaSach" class="btn btn-info"> Buy </a>
+            </div>*@
+        </div>
+    </div>
+</div>
+<div class="row card">
+    <h2>Thông Tin Sản Phẩm</h2>
+</div>
+<div class="row card">
+    <table class="table table-striped">
+        <tr>
+            <td>Mã hàng</td>
+            <td>@Model.MaSach</td>
+        </tr>
+        <tr>
+            <td>Nhà Xuất Bản</td>
+            <td>@Model.NhaXuatBan.TenNXB</td>
+        </tr>
+        <tr>
+            <td>Tác giả</td>
+            <td>@Model.TacGia.TenTG</td>
+        </tr>
+        <tr>
+            <td>Ngôn Ngữ</td>
+            <td>@Model.NgonNgu</td>
+        </tr>
+        <tr>
+            <td>Trọng lượng (gr)</td>
+            <td>@Model.TrongLuong</td>
+        </tr>
+        <tr>
+            <td>Kích thước</td>
+            <td>@Model.KichThuoc</td>
+        </tr>
+        <tr>
+            <td>Số trang</td>
+            <td>@Model.SoTrang</td>
+        </tr>
+        <tr>
+            <td>Hình thức</td>
+            <td>@Model.LoaiBia</td>
+        </tr>
+    </table>
+    
+</div>
+<div class="row card">
+    <h2>Nội Dung</h2>
+    <p>@Model.NoiDung</p>
+</div>

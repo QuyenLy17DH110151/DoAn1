@@ -1,0 +1,144 @@
+﻿@model _17DH110151_LyQuyen.Models.Sach
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Sach</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Công ty phát hành
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CongTyPH.TenCT)
+        </dd>
+
+        <dt>
+            Nhà xuất bản
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NhaXuatBan.TenNXB)
+        </dd>
+
+        <dt>
+            Tác giả
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TacGia.TenTG)
+        </dd>
+
+        <dt>
+            Thể Loại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TheLoai.TenTL)
+        </dd>
+
+        <dt>
+            Tên Sách
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenSach)
+        </dd>
+
+        <dt>
+            Người dịch
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NguoiDich)
+        </dd>
+
+        <dt>
+            Ngôn ngữ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgonNgu)
+        </dd>
+
+        <dt>
+            Trọng lượng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TrongLuong)
+        </dd>
+
+        <dt>
+            Kích thước
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KichThuoc)
+        </dd>
+
+        <dt>
+            Số trang
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoTrang)
+        </dd>
+
+        <dt>
+            Loại bìa
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LoaiBia)
+        </dd>
+
+        <dt>
+            Hình
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ItemImageName)
+        </dd>
+
+        <dt>
+            Ngày xuất bản
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayXB)
+        </dd>
+
+        <dt>
+            Nội dung
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NoiDung)
+        </dd>
+
+        <dt>
+            Giá
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-dark" /> |
+            <a href="~/Demo/Showgrid">Quay về</a>
+        </div>
+    }
+</div>

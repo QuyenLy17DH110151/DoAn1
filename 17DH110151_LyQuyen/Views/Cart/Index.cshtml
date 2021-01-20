@@ -1,0 +1,60 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.Sach>
+
+@{
+    ViewBag.Title = "Buy";
+}
+@using _17DH110151_LyQuyen.Models
+<h2>Danh Sách Giỏ Hàng</h2>
+@{ 
+    double tong = 0;
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenSach)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemImageName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gia)
+        </th>
+        <th>Số Lượng</th>
+        <th>Thành Tiền</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in (List<GioHang>)Session["GH"])
+    {
+        tong=tong+(item.SoLuong * item.Sach.Gia);
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sach.TenSach)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Sach.ItemImageName)*@
+                <img class="rounded" src="/Images/@item.Sach.ItemImageName" style="height:100px;width:100px;"  />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sach.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @(item.SoLuong*item.Sach.Gia)
+            </td>
+             <td>
+               <a href="/cart/Xoa?id=@item.Sach.MaSach" class="btn btn-danger">Xoá</a>
+            </td>
+        </tr>
+    }
+</table>
+<center>
+    <a href="~/cart/Buy" class="btn btn-info">
+        Buy
+    </a>
+
+    <a href="/PayPal/Index" class="btn btn-success">Thanh toán PayPal</a>
+</center>
+<center><h5>Tổng Tiền : @tong VND</h5></center>

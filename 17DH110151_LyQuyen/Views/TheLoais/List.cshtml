@@ -1,0 +1,19 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.TheLoai>
+
+
+<table class="table">
+    <tr>
+        <th>
+            <h2>Danh Sách Thể Loại</h2>
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <a href="/Saches/List?TenTL=@item.TenTL">   @Html.DisplayFor(modelItem => item.TenTL)</a>
+        </td>
+    </tr>
+}
+
+</table>

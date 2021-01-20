@@ -1,0 +1,20 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.TacGia>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Menu</title>
+</head>
+<body>
+    @foreach (var item in Model)
+    {
+    <a class="dropdown-item" href="/Saches/List?TenTG=@item.TenTG"> @Html.DisplayFor(modelItem => item.TenTG)</a>
+    }
+</body>
+</html>

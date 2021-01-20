@@ -1,0 +1,33 @@
+﻿@model IEnumerable<_17DH110151_LyQuyen.Models.TheLoai>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           Tên Thể Loại
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenTL)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaTL }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaTL }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaTL })
+        </td>
+    </tr>
+}
+
+</table>
