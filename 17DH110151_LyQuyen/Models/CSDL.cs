@@ -18,7 +18,7 @@ namespace _17DH110151_LyQuyen.Models
             //s.InitialCatalog = "LyQuyenx";
             //s.IntegratedSecurity = true;
             //Database.Connection.ConnectionString = s.ConnectionString;
-            Database.Connection.ConnectionString = "workstation id=Quyebkiupu.mssql.somee.com;packet size=4096;user id=Quyen1020_SQLLogin_1;pwd=6zoruxj8p5;data source=Quyebkiupu.mssql.somee.com;persist security info=False;initial catalog=Quyebkiupu";
+            Database.Connection.ConnectionString = "workstation id=dbsachquyen.mssql.somee.com;packet size=4096;user id=quyenly151_SQLLogin_1;pwd=yllavkxfgq;data source=dbsachquyen.mssql.somee.com;persist security info=False;initial catalog=dbsachquyen";
 
         }
         public virtual DbSet<GioHang> GioHangs { get; set; }
